@@ -1,0 +1,3 @@
+﻿  binarySearch311.cpp
+C:\Users\Andrew Ortiz\Desktop\CS311\BST\binarySearch311.cpp(89): warning C4715: 'binarySearch': not all control paths return a value
+  BST.vcxproj -> C:\Users\Andrew Ortiz\Desktop\CS311\BST\x64\Debug\BST.exe

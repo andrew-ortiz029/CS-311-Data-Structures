@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL", "AVL.vcxproj", "{CC3BD84F-892F-431E-B921-1D814FD90483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Debug|x64.ActiveCfg = Debug|x64
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Debug|x64.Build.0 = Debug|x64
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Debug|x86.Build.0 = Debug|Win32
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Release|x64.ActiveCfg = Release|x64
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Release|x64.Build.0 = Release|x64
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Release|x86.ActiveCfg = Release|Win32
+		{CC3BD84F-892F-431E-B921-1D814FD90483}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DF9215A-0294-43B1-85D6-B702C3E979F9}
+	EndGlobalSection
+EndGlobal
